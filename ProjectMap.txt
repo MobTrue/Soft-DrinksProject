@@ -1,0 +1,16 @@
+
+Soft-DrinksProject/
+│
+├── cods/
+│   ├── scripts/
+│   │   └── script.js
+│   └── styles/
+│       └── style.css
+│
+├── src/
+│   └── img/
+│       └── images.png
+│
+├── index.html
+
+
